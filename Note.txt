@@ -1,0 +1,28 @@
+
+https://hotairballoonbyek-default-rtdb.firebaseio.com/balloon
+
+HotAirBalloonApp -- Web
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.2.4/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCUVFXgK4BBIsyWO-3J-yCch03I2znxRow",
+    authDomain: "hotairballoonbyek.firebaseapp.com",
+    databaseURL: "https://hotairballoonbyek-default-rtdb.firebaseio.com",
+    projectId: "hotairballoonbyek",
+    storageBucket: "hotairballoonbyek.appspot.com",
+    messagingSenderId: "516882826995",
+    appId: "1:516882826995:web:e4558f998b911321aa9986"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
+
+
+https://console.firebase.google.com/u/0/project/hotairballoonbyek/overview
